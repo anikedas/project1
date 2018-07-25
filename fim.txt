@@ -1,2 +1,3 @@
 this is a file
 problem after merging
+result
